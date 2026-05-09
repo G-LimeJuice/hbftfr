@@ -1,1 +1,3 @@
-# hbftfr
+# hbftfr = HarfBuzz , FreeType , FriBidi
+
+
